@@ -10,6 +10,8 @@ A Google Colab notebook that launches a GUI to use Stability AI's [Stable Video 
 5. Adjust `crop offset` to get the desired crop.
 6. Press `Run` to generate a video.
 
+[Live Link for Next 72 Hours](https://f39f3b32f5a517be58.gradio.live/)
+
 ![image](assets/cyberfilm-1.PNG)
 ![image](assets/cyberfilm-2.PNG)
 ![image](assets/cyberfilm-3.PNG)
